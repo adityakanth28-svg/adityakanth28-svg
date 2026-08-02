@@ -33,9 +33,4 @@ Tech stack🧑‍💻🤖
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,opencv,matlab,vscode,leetcode" />
 </p>
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakanth28-svg&show_icons=true&theme=tokyonight)
-Language stack 🧑‍💻
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakanth28-svg&layout=compact&theme=tokyonight)
 
