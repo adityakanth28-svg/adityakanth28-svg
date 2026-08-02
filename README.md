@@ -1,13 +1,36 @@
-## Hi there 👋
-I am Aditya Kanth 
-working on 
-C++
-ROS2 🤖
-DSA 
-Deep learning 
+# Hi 👋 I'm Aditya Kumar Kanth
 
-#Tech Stack 🧑‍💻
-Cpp OOPS
+🤖 Robotics Engineering Student
+
+## 🚀 Currently Learning
+
+- C++
+- DSA
+- Python
+- ROS2
+- OpenCV
+- Deep Learning
+
+## 🛠 Tech Stack
+
+C++
+Python
+ROS2
+MATLAB
+OpenCV
+Git
 Linux
-Git 
-Python 
+
+## Projects
+
+🚀 SoilSense
+
+🤖 2DOF Robot Arm
+
+🎯 OpenCV Color Detection
+
+## 2026 Goals
+
+- 300+ LeetCode
+- ROS2 Projects
+- Internship
