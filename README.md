@@ -29,8 +29,3 @@ Linux
 
 🎯 OpenCV Color Detection
 
-## 2026 Goals
-
-- 300+ LeetCode
-- ROS2 Projects
-- Internship
