@@ -19,7 +19,7 @@ ROS2 ,
 MATLAB ,
 OpenCV ,
 Git ,
-Linux ,
+Linux 
 
 ## Projects
 
