@@ -13,13 +13,13 @@
 
 ## 🛠 Tech Stack
 
-C++
-Python
-ROS2
-MATLAB
-OpenCV
-Git
-Linux
+C++ ,
+Python ,
+ROS2 ,
+MATLAB ,
+OpenCV ,
+Git ,
+Linux ,
 
 ## Projects
 
